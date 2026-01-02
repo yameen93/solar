@@ -10,10 +10,11 @@ URL_TXT_RAW = "https://raw.githubusercontent.com/yameen93/solar/main/url.txt"
 def home():
     try:
         r = requests.get(URL_TXT_RAW, timeout=5)
-        url = r.text.strip()
+        base_url = r.text.strip()
 
-        if url.startswith("http"):
-            return redirect(url, code=302)
+        if base_url.startswith("http"):
+            final_url = base_url.rstrip("/") + "/solar"
+            return redirect(final_url, code=302)
         else:
             return "Tunnel URL not available", 503
 
