@@ -1,1 +1,1 @@
-https://wright-moderator-junior-february.trycloudflare.com
+https://api.trycloudflare.com
