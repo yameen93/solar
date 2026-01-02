@@ -1,1 +1,1 @@
-https://tire-guides-ruling-brunswick.trycloudflare.com
+https://api.trycloudflare.com
