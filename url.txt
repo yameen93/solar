@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://often-lamps-spreading-signs.trycloudflare.com
