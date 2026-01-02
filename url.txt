@@ -1,1 +1,1 @@
-https://caution-instance-royalty-like.trycloudflare.com
+https://api.trycloudflare.com
