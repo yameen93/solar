@@ -55,8 +55,9 @@ def update_github(url):
     subprocess.run(["git", "add", URL_FILE])
     subprocess.run(["git", "commit", "-m", "Update Cloudflare tunnel URL"])
 
-    push_url = f"https://{GITHUB_TOKEN}@github.com/{GITHUB_REPO}.git"
-    subprocess.run(["git", "push", push_url, "main"])
+    #push_url = f"https://{GITHUB_TOKEN}@github.com/{GITHUB_REPO}.git"
+    #subprocess.run(["git", "push", push_url, "main"])
+    subprocess.run(["git", "push", "origin", "main"])
 
 
 # ================= MAIN LOOP =================
