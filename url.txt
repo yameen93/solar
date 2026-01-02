@@ -1,1 +1,1 @@
-https://wins-drill-consumer-fully.trycloudflare.com
+https://api.trycloudflare.com
