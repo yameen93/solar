@@ -7,7 +7,7 @@ import os
 # ================= CONFIG =================
 PORT = "80"                      # Apache = 80, PHP = 8000
 CHECK_INTERVAL = 20              # seconds
-REPO_PATH = "/home/pi/solar"     # change if needed
+REPO_PATH = "/home/yameen/solar"
 URL_FILE = "url.txt"
 
 GITHUB_TOKEN = "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"
