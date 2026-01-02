@@ -10,7 +10,7 @@ CHECK_INTERVAL = 20              # seconds
 REPO_PATH = "/home/yameen/solar"
 URL_FILE = "url.txt"
 
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = ""
 GITHUB_REPO = "yameen93/solar"
 # =========================================
 
