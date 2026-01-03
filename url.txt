@@ -1,1 +1,1 @@
-https://flashing-tabs-married-cal.trycloudflare.com
+https://api.trycloudflare.com
