@@ -1,1 +1,1 @@
-https://actors-numbers-men-riverside.trycloudflare.com
+https://api.trycloudflare.com
