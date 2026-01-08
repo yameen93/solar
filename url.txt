@@ -1,1 +1,1 @@
-https://commodities-jun-troy-board.trycloudflare.com
+https://api.trycloudflare.com
