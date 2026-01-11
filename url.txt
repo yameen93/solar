@@ -1,1 +1,1 @@
-https://flavor-victory-warnings-urge.trycloudflare.com
+https://api.trycloudflare.com
