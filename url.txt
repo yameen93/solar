@@ -1,1 +1,1 @@
-https://roberts-adjust-hampton-degrees.trycloudflare.com
+https://api.trycloudflare.com
