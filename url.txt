@@ -1,1 +1,1 @@
-https://gif-water-allen-elections.trycloudflare.com
+https://api.trycloudflare.com
