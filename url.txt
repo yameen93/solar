@@ -1,1 +1,1 @@
-https://strength-functionality-conversations-gba.trycloudflare.com
+https://api.trycloudflare.com
