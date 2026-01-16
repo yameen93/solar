@@ -1,1 +1,1 @@
-https://reminder-minnesota-remix-amounts.trycloudflare.com
+https://api.trycloudflare.com
