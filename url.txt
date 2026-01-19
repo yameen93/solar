@@ -1,1 +1,1 @@
-https://animated-vital-species-washington.trycloudflare.com
+https://api.trycloudflare.com
