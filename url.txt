@@ -1,1 +1,1 @@
-https://tremendous-laura-blah-from.trycloudflare.com
+https://api.trycloudflare.com
