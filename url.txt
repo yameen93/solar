@@ -1,1 +1,1 @@
-https://level-careful-activists-consistent.trycloudflare.com
+https://api.trycloudflare.com
