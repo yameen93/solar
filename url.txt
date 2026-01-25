@@ -1,1 +1,1 @@
-https://spoken-establishment-screening-obtained.trycloudflare.com
+https://api.trycloudflare.com
