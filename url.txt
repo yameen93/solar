@@ -1,1 +1,1 @@
-https://enables-attendance-installations-bufing.trycloudflare.com
+https://api.trycloudflare.com
