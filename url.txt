@@ -1,1 +1,1 @@
-https://creating-pty-participating-characters.trycloudflare.com
+https://api.trycloudflare.com
