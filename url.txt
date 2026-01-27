@@ -1,1 +1,1 @@
-https://bestsellers-research-metal-boxed.trycloudflare.com
+https://api.trycloudflare.com
