@@ -1,1 +1,1 @@
-https://anybody-consent-ctrl-lauren.trycloudflare.com
+https://api.trycloudflare.com
