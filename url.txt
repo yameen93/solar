@@ -1,1 +1,1 @@
-https://briefly-assembled-dip-employers.trycloudflare.com
+https://api.trycloudflare.com
