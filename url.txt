@@ -1,1 +1,1 @@
-https://committed-nails-raise-visitors.trycloudflare.com
+https://api.trycloudflare.com
