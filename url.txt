@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://resorts-rely-cut-customers.trycloudflare.com
