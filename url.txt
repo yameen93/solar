@@ -1,1 +1,1 @@
-https://studios-pad-surgical-trim.trycloudflare.com
+https://api.trycloudflare.com
