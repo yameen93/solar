@@ -1,1 +1,1 @@
-https://pricing-alt-poultry-trackback.trycloudflare.com
+https://api.trycloudflare.com
