@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://clan-radiation-selection-pockets.trycloudflare.com
