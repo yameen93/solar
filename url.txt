@@ -1,1 +1,1 @@
-https://boys-considered-salad-stolen.trycloudflare.com
+https://api.trycloudflare.com
