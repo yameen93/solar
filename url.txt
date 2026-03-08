@@ -1,1 +1,1 @@
-https://full-prescription-practical-coffee.trycloudflare.com
+https://api.trycloudflare.com
