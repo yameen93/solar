@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://gained-safer-origin-professor.trycloudflare.com
